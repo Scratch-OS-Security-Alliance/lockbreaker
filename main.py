@@ -14,10 +14,10 @@ if __name__ == "__main__":
     projectJSONPath = os.path.join(tmpDir, 'project.json')
 
     welcomeText = """
-=======================================
-FreezerBurn - pastaOS Anticheat Patcher
-      by bambus80 - 24.06.2024
-=======================================
+==================================
+Lockbreaker - Bypass openMX logins
+  by whirlingstars - 24.06.2024
+==================================
     """
     print(welcomeText)
 
