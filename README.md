@@ -1,5 +1,5 @@
 # ![image](https://github.com/Scratch-OS-Security-Alliance/lockbreaker/assets/49661996/e9727a9a-0f50-47de-9617-4e8ca0b9cbf5) Lockbreaker
-A Python utility for bypassing OpenMX password checking in the lockscreen.
+A Python utility for bypassing OpenMX password checking.
 
 # Usage
 This is a command line tool. You can run it by entering the following command:
