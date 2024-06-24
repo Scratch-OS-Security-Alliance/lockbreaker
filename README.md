@@ -1,6 +1,4 @@
-![Logo](https://github.com/bambus80/freezerburn/blob/98591fd56af202f3ea8e7d2d3f9834ebb94c2afb/logo.png?raw=true "a title")
-
-# Lockbreaker
+# ![image](https://github.com/Scratch-OS-Security-Alliance/lockbreaker/assets/49661996/e9727a9a-0f50-47de-9617-4e8ca0b9cbf5) Lockbreaker
 A Python utility for bypassing OpenMX password checking in the lockscreen.
 
 # Usage
